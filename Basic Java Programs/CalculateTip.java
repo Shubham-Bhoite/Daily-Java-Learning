@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class CalculateTip
+public class CalculateTip
 {
 	public static void main(String[] args)
 	{
