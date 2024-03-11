@@ -3,6 +3,6 @@
 
 2==>[Ternary Operator Program]()
 
-
+3==> Coming soon..
 ## Instructor :
 - Shrikant Kokate sir
