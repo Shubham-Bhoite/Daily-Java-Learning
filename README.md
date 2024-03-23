@@ -5,6 +5,8 @@
 
 3==>[If-Else Statements](https://github.com/Shubham-Bhoite/Daily-Java-Learning/tree/main/If%20Else%20Statements)
 
+4==>[Loops](https://github.com/Shubham-Bhoite/Daily-Java-Learning/tree/main/Loops/For%20Loop)
+
 
 ## Instructor :
 - Shrikant Kokate sir
