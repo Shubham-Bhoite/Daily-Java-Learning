@@ -7,6 +7,7 @@
 
 4==> [Loops](https://github.com/Shubham-Bhoite/Daily-Java-Learning/tree/main/Loops/For%20Loop)
 
+5==> [Method](https://github.com/Shubham-Bhoite/Daily-Java-Learning/tree/main/Method)
 
 ## Instructor :
 - Shrikant Kokate sir
