@@ -12,5 +12,7 @@
 6==> [Constructor]()
 
 7==> [Encapsulation](https://github.com/Shubham-Bhoite/Daily-Java-Learning/tree/main/Encapsulation)
+
+8==> [Relationship](https://github.com/Shubham-Bhoite/Daily-Java-Learning/tree/main/Relationship)
 ## Instructor :
 - Shrikant Kokate sir
