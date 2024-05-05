@@ -14,5 +14,7 @@
 7==> [Encapsulation](https://github.com/Shubham-Bhoite/Daily-Java-Learning/tree/main/Encapsulation)
 
 8==> [Relationship](https://github.com/Shubham-Bhoite/Daily-Java-Learning/tree/main/Relationship)
+
+9==> [Inheritance]()
 ## Instructor :
 - Shrikant Kokate sir
