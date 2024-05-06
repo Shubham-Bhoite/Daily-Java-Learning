@@ -15,6 +15,7 @@
 
 8==> [Relationship](https://github.com/Shubham-Bhoite/Daily-Java-Learning/tree/main/Relationship)
 
-9==> [Inheritance]()
+9==> [Inheritance](https://github.com/Shubham-Bhoite/Daily-Java-Learning/tree/main/Inheritance)
+
 ## Instructor :
 - Shrikant Kokate sir
