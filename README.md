@@ -17,6 +17,6 @@
 
 9==> [Inheritance](https://github.com/Shubham-Bhoite/Daily-Java-Learning/tree/main/Inheritance)
 
-10==> [Polymorphism]()
+10==> [Polymorphism](https://github.com/Shubham-Bhoite/Daily-Java-Learning/tree/main/Polymorphism/Method%20Overloading)
 ## Instructor :
 - Shrikant Kokate sir
