@@ -21,6 +21,8 @@
 
 11==> [String & String Methods](https://github.com/Shubham-Bhoite/Daily-Java-Learning/tree/main/String%20%26%20String%20Methods)
 
+12==> [Arrays](https://github.com/Shubham-Bhoite/Daily-Java-Learning/tree/main/Arrays)
+
 
 ## Instructor :
 - Shrikant Kokate sir
