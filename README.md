@@ -25,7 +25,7 @@
 
 13==> [Wrapper Class](https://github.com/Shubham-Bhoite/Daily-Java-Learning/tree/main/Java%20Concepts/Wrapper%20Class)
 
-14==> [Collection](https://github.com/Shubham-Bhoite/Daily-Java-Learning/tree/main/Java%20Concepts/Collection/Collection%20Interface%20Methods)
+14==> [Collection](https://github.com/Shubham-Bhoite/Daily-Java-Learning/tree/main/Java%20Concepts/Collection)
 
 ## Instructor :
 - Shrikant Kokate sir
