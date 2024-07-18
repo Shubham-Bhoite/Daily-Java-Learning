@@ -1,5 +1,5 @@
 import java.util.*;
-class StackSearchMethods
+class StackMethods
 {
 	public static void main(String[] args) {
 		Stack <Integer> stack = new Stack<>();
