@@ -11,6 +11,6 @@ public class HashSetEx3 {
         set.add(15);
 
         System.out.println("HashSet contains: " + set);
-        System.out.println("Size of HashSet: " + set.size());
+
     }
 }
