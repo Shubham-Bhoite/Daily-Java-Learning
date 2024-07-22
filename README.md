@@ -9,6 +9,8 @@
 
 5==> [Method](https://github.com/Shubham-Bhoite/Daily-Java-Learning/tree/main/Java%20Concepts/Method)
 
+6==> [Static](https://github.com/Shubham-Bhoite/Daily-Java-Learning/tree/main/Java%20Concepts/Static)
+
 6==> [Constructor]()
 
 7==> [Encapsulation](https://github.com/Shubham-Bhoite/Daily-Java-Learning/tree/main/Java%20Concepts/Encapsulation)
