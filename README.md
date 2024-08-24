@@ -29,7 +29,7 @@
 
 15==> [Collection](https://github.com/Shubham-Bhoite/Daily-Java-Learning/tree/main/Java%20Concepts/Collection)
 
-update soon............
+
 
 ## Instructor :
 - Shrikant Kokate sir
