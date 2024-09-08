@@ -11,7 +11,7 @@
 
 6==> [Static](https://github.com/Shubham-Bhoite/Daily-Java-Learning/tree/main/Java%20Concepts/Static)
 
-7==> [Constructor]()
+7==> [Constructor](https://github.com/Shubham-Bhoite/Daily-Java-Learning/tree/main/Java%20Concepts/Constructor)
 
 8==> [Encapsulation](https://github.com/Shubham-Bhoite/Daily-Java-Learning/tree/main/Java%20Concepts/Encapsulation)
 
