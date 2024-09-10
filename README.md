@@ -32,4 +32,4 @@
 
 
 ## Instructor :
- 👉Shrikant Kokate sir
+ 👉 Shrikant Kokate sir
