@@ -22,7 +22,7 @@ class UserStack<E> {
 
     public int search(E i) {
         for (int j = list.size() - 1, offset = 1; j >= 0; j--, offset++) {
-            if (i.equals(list.get(j))) {
+            if (i.equals(list.get(j))) { 
                 return offset;
             }
         }
