@@ -19,7 +19,7 @@
 
 10==> [Inheritance](https://github.com/Shubham-Bhoite/Daily-Java-Learning/tree/main/Java%20Concepts/Inheritance)
 
-11==> [Polymorphism](https://github.com/Shubham-Bhoite/Daily-Java-Learning/tree/main/Java%20Concepts/Polymorphism/Method%20Overloading)
+11==> [Polymorphism](https://github.com/Shubham-Bhoite/Daily-Java-Learning/tree/main/Java%20Concepts/Polymorphism)
 
 12==> [String & String Methods](https://github.com/Shubham-Bhoite/Daily-Java-Learning/tree/main/Java%20Concepts/String%20%26%20String%20Methods)
 
