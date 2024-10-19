@@ -3,7 +3,7 @@ The number is in the range of 1 to 100.
 
 If the user guesses a number that is greater, we print “The number is too large”.
 If the user guesses a number that is smaller, we print “The number is too small”.
-If the user is able to correctly guess the number, then we print “Correct Number!”.
+If the user is able to correctly guess the number, then we print “Correct Number!”.*/
 
 
 
