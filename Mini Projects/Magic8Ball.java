@@ -14,7 +14,7 @@ public class Magic8Ball {
         };
         
         while (true) {
-            System.out.print("Ask the Magic 8-Ball a yes/no question (or type 'quit' to exit): ");
+            System.out.print("Ask the Magic 8-Ball a yes/no question or type 'quit' to exit : ");
             String question = scanner.nextLine();
             
             if (question.equalsIgnoreCase("quit")) {
