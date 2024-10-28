@@ -2,16 +2,16 @@ import java.util.Scanner;
 
 public class CurrencyConverter {
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);
         
         double usdToInr = 83.50;
         double eurToInr = 90.25;
         
         System.out.print("Enter amount in USD: ");
-        double amountUSD = scanner.nextDouble();
+        double amountUSD = sc.nextDouble();
         
         System.out.print("Convert to (1) INR, (2) EUR: ");
-        int choice = scanner.nextInt();
+        int choice = sc.nextInt();
         
         double convertedAmount;
         if (choice == 1) {
@@ -24,6 +24,6 @@ public class CurrencyConverter {
             System.out.println("Invalid choice!");
         }
         
-        scanner.close();
+        sc.close();
     }
 }
