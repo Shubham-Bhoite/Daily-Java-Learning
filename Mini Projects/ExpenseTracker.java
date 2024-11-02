@@ -1,3 +1,11 @@
+/* Description: An expense tracker allows users to log their expenses and categorize them (like food, travel, bills). Users can view a summary of their expenses, such as total expenses and category-wise breakdown.
+
+Features:
+
+Add, view, and delete expenses.
+Summarize total expenses.
+Filter expenses by date or category. */
+
 import java.util.ArrayList;
 import java.util.Scanner;
 
