@@ -1,3 +1,12 @@
+/*Library Management System
+Description: A simple library system where users can add books, borrow books, and return them.
+
+Features:
+
+Add new books to the library.
+Borrow books if available.
+Return books.*/
+
 import java.util.ArrayList;
 import java.util.Scanner;
 
