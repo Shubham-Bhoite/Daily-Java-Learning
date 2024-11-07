@@ -1,3 +1,12 @@
+/*Student Management System
+Description: A system for managing student records, allowing adding, viewing, and removing student details.
+
+Features:
+
+Add student details (name, ID, GPA).
+Display all student records.
+Search student by ID.*/
+
 import java.util.ArrayList;
 import java.util.Scanner;
 
