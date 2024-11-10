@@ -1,3 +1,11 @@
+/*Simple Encryption Program
+Description: A program that encrypts and decrypts text using a basic encryption algorithm, such as Caesar Cipher, for simple text encoding.
+
+Features:
+
+Encrypt text with a shift-based algorithm.
+Decrypt encoded text back to the original.*/
+
 import java.util.Scanner;
 
 public class SimpleEncryption {
