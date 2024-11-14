@@ -1,3 +1,14 @@
+/*Contact Book
+Description: A contact book application to store contacts with names and phone numbers. It provides options to add, search, delete, and list contacts.
+
+Features:
+
+Add new contacts.
+Search for contacts by name.
+Delete a contact.
+List all contacts.*/
+
+
 import java.util.ArrayList;
 import java.util.Scanner;
 
