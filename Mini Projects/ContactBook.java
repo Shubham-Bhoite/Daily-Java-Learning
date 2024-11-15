@@ -24,7 +24,7 @@ class Contact {
 
 public class ContactBook {
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);
         ArrayList<Contact> contacts = new ArrayList<>();
 
         while (true) {
@@ -34,19 +34,19 @@ public class ContactBook {
             System.out.println("4. View All Contacts");
             System.out.println("5. Exit");
             System.out.print("Choose an option: ");
-            int choice = scanner.nextInt();
-            scanner.nextLine();
+            int choice = sc.nextInt();
+            sc.nextLine();
 
             if (choice == 1) {
                 System.out.print("Enter name: ");
-                String name = scanner.nextLine();
+                String name = sc.nextLine();
                 System.out.print("Enter phone number: ");
-                String phone = scanner.nextLine();
+                String phone = sc.nextLine();
                 contacts.add(new Contact(name, phone));
                 System.out.println("Contact added!");
             } else if (choice == 2) {
                 System.out.print("Enter name to search: ");
-                String name = scanner.nextLine();
+                String name = sc.nextLine();
                 boolean found = false;
                 for (Contact contact : contacts) {
                     if (contact.name.equalsIgnoreCase(name)) {
@@ -60,7 +60,7 @@ public class ContactBook {
                 }
             } else if (choice == 3) {
                 System.out.print("Enter name to delete: ");
-                String name = scanner.nextLine();
+                String name = sc.nextLine();
                 boolean deleted = contacts.removeIf(contact -> contact.name.equalsIgnoreCase(name));
                 if (deleted) {
                     System.out.println("Contact deleted.");
@@ -75,6 +75,6 @@ public class ContactBook {
                 break;
             }
         }
-        scanner.close();
+        sc.close();
     }
 }
