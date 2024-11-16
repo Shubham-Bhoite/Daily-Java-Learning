@@ -1,4 +1,4 @@
-//Rock, Paper, Scissors Game
+// 8) Rock, Paper, Scissors Game
 
 import java.util.Scanner;
 import java.util.Random;

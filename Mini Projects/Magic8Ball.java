@@ -1,4 +1,4 @@
-/*Magic 8-Ball
+/* 7) Magic 8-Ball
 Description: Ask the user a yes/no question, and the Magic 8-Ball gives a random answer.*/
 
 import java.util.Random;

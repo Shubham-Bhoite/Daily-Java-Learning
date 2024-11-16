@@ -1,4 +1,4 @@
-/*Simple Encryption Program
+/* 10) Simple Encryption Program
 Description: A program that encrypts and decrypts text using a basic encryption algorithm, such as Caesar Cipher, for simple text encoding.
 
 Features:

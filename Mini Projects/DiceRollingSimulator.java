@@ -1,4 +1,4 @@
-/*Dice Rolling Simulator
+/*3) Dice Rolling Simulator
 Description: Simulate rolling a dice by generating random numbers between 1 and 6.*/
 
 import java.util.Random;

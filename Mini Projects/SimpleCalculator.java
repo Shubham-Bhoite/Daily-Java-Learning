@@ -1,4 +1,4 @@
-/*This Java program is a simple calculator that performs basic arithmetic operations (addition, subtraction, multiplication, and division). */
+/* 9) This Java program is a simple calculator that performs basic arithmetic operations (addition, subtraction, multiplication, and division). */
 
 import java.util.Scanner;
 

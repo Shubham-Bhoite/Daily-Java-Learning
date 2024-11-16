@@ -1,4 +1,4 @@
-/*Currency Converter
+/* 2) Currency Converter
 Description: A program where the user selects two currencies and enters an amount. The program then converts the amount using pre-defined exchange rates.*/
 
 import java.util.Scanner;

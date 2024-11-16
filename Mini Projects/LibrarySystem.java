@@ -1,4 +1,4 @@
-/*Library Management System
+/* 6) Library Management System
 Description: A simple library system where users can add books, borrow books, and return them.
 
 Features:

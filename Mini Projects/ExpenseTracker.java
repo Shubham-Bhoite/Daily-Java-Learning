@@ -1,4 +1,4 @@
-/* Description: An expense tracker allows users to log their expenses and categorize them (like food, travel, bills). Users can view a summary of their expenses, such as total expenses and category-wise breakdown.
+/* 4) Description: An expense tracker allows users to log their expenses and categorize them (like food, travel, bills). Users can view a summary of their expenses, such as total expenses and category-wise breakdown.
 
 Features:
 
